@@ -1,0 +1,7 @@
+lakehouse/
+mlflow.db
+mlartifacts/
+mlruns/
+spark-warehouse/
+__pycache__/
+.ipynb_checkpoints/

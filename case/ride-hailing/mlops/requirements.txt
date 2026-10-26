@@ -1,0 +1,8 @@
+# Sample code for the MLflow + Prefect session (run from case/ride-hailing/mlops/)
+pyducklake[pandas]>=1.0.18
+pytz
+pyspark>=4.0          # needs Java 17 or newer
+pandas<3              # PySpark does not fully support pandas 3 yet
+mlflow>=3.1
+prefect>=3.4
+jupyterlab
